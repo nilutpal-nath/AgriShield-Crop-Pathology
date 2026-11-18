@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "bradlc.vscode-tailwindcss",
+    "qwtel.sqlite-viewer",
+    "dsznajder.es7-react-js-snippets",
+    "esbenp.prettier-vscode"
+  ]
+}
